@@ -1,0 +1,1 @@
+D:\eclipses\eclipse_js\eclipse\eclipse.exe -data . -vm D:\java\jdk-15.0.1_windows-x64_bin\jdk-15.0.1\bin\javaw.exe
